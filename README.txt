@@ -11,4 +11,5 @@ AWS_ACCESS_KEY_ID=
 AWS_SECRET_ACCESS_KEY=
 AWS_S3_BUCKET=historycheck
 PDF_DIRECTORY_PATH=/var/app/current/sweep/api/history-check/
-3) run the script , node upload.js
+3) npm install
+4) run the script , node upload.js
